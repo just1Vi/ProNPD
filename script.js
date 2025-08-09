@@ -168,7 +168,7 @@ function showResults() {
   btnNext.textContent = 'Открыть счёт';
   btnNext.onclick = () => {
     closeQuiz();
-    window.open('https://t.fincpanetwork.ru/click/89957/337/?erid=2W5zFJerRPE&sub1=test', '_blank');
+    window.open('https://alfa.me/OrVf3p', '_blank');
   };
   btnPrev.style.display = 'none';
 }

@@ -120,7 +120,7 @@ my test site
 ## 🔗 Реферальная ссылка
 
 ```
-https://t.fincpanetwork.ru/click/89957/337/?erid=2W5zFJerRPE&sub1=test
+https://alfa.me/OrVf3p
 ```
 
 ## 📱 Технические требования
